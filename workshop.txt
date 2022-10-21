@@ -1,0 +1,15 @@
+version=1
+id=2844760343
+title=THE GLASSES STAY ON
+description=THE GLASSES STAY ON allows you to wear glasses underneath gas masks, welding masks, helmets and other items.
+description=
+description=If you try to equip/unequip glasses while wearing a mask, you'll automatically unequip the mask first and re-equip it after. I don't know why you'd change glasses while in danger, but make sure it's safe to take off your mask first!
+description=
+description=This mod should be compatible with all modded items by default. It is especially useful when using mods that make either glasses or gas masks more useful, such as:
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2698765788]Myopia & Hyperopia Traits[/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2795677303]Susceptible[/url]
+description=
+description=If you enjoy my mods, I'd appreciate it a lot if you considered leaving me a tip ^u^
+description=[url=https://ko-fi.com/starseamstress][img]https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png[/img][/url]
+tags=Build 41;Clothing/Armor;Items;Misc;Multiplayer;Realistic
+visibility=public

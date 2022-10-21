@@ -1,0 +1,8 @@
+name=THE GLASSES STAY ON
+poster=GlassesStayOn.png
+id=GasMaskGlasses
+description=Allows you to wear glasses underneath gas masks, helmets, and some other items.
+versionMin=41.73
+modversion=1.0.2
+authors=albion
+icon=gmagmini.png
