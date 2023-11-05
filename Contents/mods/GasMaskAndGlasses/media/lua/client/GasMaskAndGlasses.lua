@@ -1,5 +1,5 @@
 --[[GAS MASK AND GLASSES
-    Copyright (C) 2022 albion
+    Copyright (C) 2023 albion
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of Version 3 of the GNU Affero General Public License as published
